@@ -19,5 +19,6 @@ public class SumOfElements {
         }
 
         System.out.println(sum);
+        sc.close();
     }
 }

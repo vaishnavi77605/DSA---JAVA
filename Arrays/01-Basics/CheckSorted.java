@@ -22,5 +22,6 @@ public class CheckSorted {
         }
 
         System.out.println(sorted ? "Sorted" : "Not Sorted");
+        sc.close();
     }
 }

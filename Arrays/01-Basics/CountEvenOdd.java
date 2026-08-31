@@ -25,5 +25,6 @@ public class CountEvenOdd {
 
         System.out.println("Even: " + even);
         System.out.println("Odd: " + odd);
+        sc.close();
     }
 }

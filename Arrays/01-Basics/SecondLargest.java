@@ -25,5 +25,6 @@ public class SecondLargest {
         }
 
         System.out.println(secondLargest);
+        sc.close();
     }
 }

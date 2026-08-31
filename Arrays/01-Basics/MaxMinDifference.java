@@ -26,5 +26,6 @@ public class MaxMinDifference {
         }
 
         System.out.println(max - min);
+        sc.close();
     }
 }
